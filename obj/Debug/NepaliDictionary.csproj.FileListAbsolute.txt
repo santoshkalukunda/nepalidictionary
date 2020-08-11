@@ -1,0 +1,9 @@
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\bin\Debug\NepaliDictionary.exe.config
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\bin\Debug\NepaliDictionary.exe
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\bin\Debug\NepaliDictionary.pdb
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.csprojResolveAssemblyReference.cache
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.Form1.resources
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.Properties.Resources.resources
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.csproj.GenerateResource.Cache
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.exe
+C:\Users\SK\Documents\Visual Studio 2015\NepaliDictionary\NepaliDictionary\obj\Debug\NepaliDictionary.pdb
